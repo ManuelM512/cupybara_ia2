@@ -1,0 +1,24 @@
+[project]
+name = "cupybara"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "albumentations>=2.0.8",
+    "cmake>=4.0.3",
+    "colorama>=0.4.6",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.0",
+    "pillow>=11.3.0",
+    "pip>=25.1.1",
+    "pytorchwildlife>=1.2.3",
+    "pyyaml>=6.0.2",
+    "scikit-learn>=1.7.0",
+    "speciesnet>=1.0",
+    "tqdm>=4.67.1",
+    "ultralytics>=8.1.0",
+]
