@@ -1,0 +1,218 @@
+{
+  "train": {
+    "total": 0,
+    "correct": 0,
+    "class_stats": {
+      "'armadillo'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'bird'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'capybara'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'cow'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'dusky_legged_guan'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'gray_brocket'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'hare'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'insect'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'margay'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'no_animal'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'skunk'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'unknown_animal'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'wild_boar'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      }
+    },
+    "accuracy": 0.0
+  },
+  "val": {
+    "total": 0,
+    "correct": 0,
+    "class_stats": {
+      "'armadillo'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'bird'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'capybara'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'cow'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'dusky_legged_guan'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'gray_brocket'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'hare'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'insect'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'margay'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'no_animal'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'skunk'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'unknown_animal'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'wild_boar'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      }
+    },
+    "accuracy": 0.0
+  },
+  "test": {
+    "total": 0,
+    "correct": 0,
+    "class_stats": {
+      "'armadillo'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'bird'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'capybara'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'cow'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'dusky_legged_guan'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'gray_brocket'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'hare'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'insect'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'margay'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'no_animal'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'skunk'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'unknown_animal'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      },
+      "'wild_boar'": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.0
+      }
+    },
+    "accuracy": 0.0
+  }
+}

@@ -1,0 +1,7 @@
+Crops-to-Frames Training & Validation Summary
+==================================================
+
+Model: runs\crops_to_frames\crops_training\weights\best.pt
+Training: Crops from crops_from_predictions
+Validation: Frames from Kaggle\cupybara\yolo11_dataset_filtered
+
